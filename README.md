@@ -216,7 +216,7 @@ func SignupUser(c *gin.Context) {
 
 
 ## Adding Router Setup
-
+[[Video]](https://www.youtube.com/watch?v=FPG-rB4QCnY)
 
 #### routers/index.go
 
