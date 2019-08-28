@@ -283,3 +283,22 @@ func main() {
 
 ```
 
+
+## Deploy Go
+
+add app.yaml
+
+```
+runtime: go111
+```
+
+
+commands
+
+```
+gcloud projects list -> show all the projects
+gcloud app deploy --project=PROJECT_NAME -> deploy
+```
+
+
+
