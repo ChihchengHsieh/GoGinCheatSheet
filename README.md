@@ -301,4 +301,8 @@ gcloud app deploy --project=PROJECT_NAME -> deploy
 ```
 
 
+## Error
 
+panic: runtime error: invalid memory address or nil pointer dereference
+
+--> Need to init DB
